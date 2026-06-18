@@ -1,0 +1,10 @@
+loc
+12180
+zip
+troy
+ny
+dist
+19465
+12180
+invalid
+end

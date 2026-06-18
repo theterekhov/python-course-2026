@@ -1,0 +1,6 @@
+Command ('loc', 'zip', 'dist', 'end') => Enter a ZIP Code to lookup => ZIP Code 12180 is in Troy, NY, Rensselaer county,
+coordinates: (042∘ 40'25.32"N,073∘ 36'31.65"W)
+Command ('loc', 'zip', 'dist', 'end') => Enter a city name to lookup => Enter the state name to lookup => The following ZIP Code(s) found for Troy, NY: 12179, 12180, 12181, 12182, 12183
+Command ('loc', 'zip', 'dist', 'end') => Enter the first ZIP Code => Enter the second ZIP Code => The distance between 19465 and 12180 is 201.86 miles
+Command ('loc', 'zip', 'dist', 'end') => Invalid command, ignoring
+Command ('loc', 'zip', 'dist', 'end') => Done
