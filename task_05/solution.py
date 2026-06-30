@@ -1,6 +1,11 @@
 import sys
 
-from PIL import Image
+try:
+    from PIL import Image
+except ImportError:
+    print("Ошибка: не установлена библиотека Pillow.")
+    print("Установите её командой: pip install Pillow")
+    sys.exit(1)
 
 
 def read_grid(filename):
